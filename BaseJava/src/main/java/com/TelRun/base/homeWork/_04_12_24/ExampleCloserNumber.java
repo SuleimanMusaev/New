@@ -2,7 +2,7 @@ package com.TelRun.base.homeWork._04_12_24;
 
 import java.util.Scanner;
 
-public class ExampleNumber {
+public class ExampleCloserNumber {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -14,10 +14,11 @@ public class ExampleNumber {
         double distanceM = Math.abs(m - 10);
         double distanceN = Math.abs(n - 10);
 
-        if (distanceM < distanceN){
+        if (distanceM < distanceN) {
             System.out.println("Number '" + m + "' is closer to 10");
         } else {
             System.out.println("Number '" + n + "' is closer to 10");
         }
+        scanner.close();
     }
 }
