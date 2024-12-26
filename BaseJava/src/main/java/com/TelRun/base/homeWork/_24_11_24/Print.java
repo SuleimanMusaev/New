@@ -1,4 +1,4 @@
-package com.TelRun.base.homeWork._24_12_24;
+package com.TelRun.base.homeWork._24_11_24;
 
 public class Print {
     public static void main(String[] args) {

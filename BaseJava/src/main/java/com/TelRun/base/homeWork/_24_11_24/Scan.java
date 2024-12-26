@@ -1,4 +1,4 @@
-package com.TelRun.base.homeWork._24_12_24;
+package com.TelRun.base.homeWork._24_11_24;
 
 import java.util.Scanner;
 
