@@ -1,4 +1,4 @@
-package forMe;
+package com.TelRun.base.lesson10.forMe;
 
 import java.util.Scanner;
 
